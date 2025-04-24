@@ -60,14 +60,6 @@ Hi there! 👋 I'm Aryan Singh, a curious and driven 20-year-old Computer Scienc
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AryanSinghh07&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
 
 ### 🔝 Top Contributed Repos
 <div align="center">
