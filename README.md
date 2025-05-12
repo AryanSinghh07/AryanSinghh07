@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there! 👋 I'm Aryan Singh, a curious and driven 20-year-old Computer Science student at Galgotias University. I’m passionate about turning ideas into real-world tech solutions through clean, efficient code. Whether it's building full-stack web apps, diving into machine learning, or experimenting with 3D design, I love exploring new technologies and pushing my creative boundaries.
+Hi there! 👋 I'm Aryan Singh, Full Stack Web Developer with hands-on experience in designing, developing, and deploying scalable web applications. Skilled 
+in React.js, Node.js, Python, and TypeScript, with a strong background in both frontend and backend development. Proven 
+ability to lead cross-functional teams, deliver impactful user experiences, and solve real-world problems through technology.  I love exploring new technologies and pushing my creative boundaries.
 
 💡 Always eager to learn, collaborate, and innovate—because the best way to grow is by building things that matter. 🚀
 
