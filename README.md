@@ -5,7 +5,10 @@ ability to lead cross-functional teams, deliver impactful user experiences, and 
 
 💡 Always eager to learn, collaborate, and innovate—because the best way to grow is by building things that matter. 🚀
 
+---
+Would you like to see some of the work I've done?
 
+👉 **[Visit here](https://github.com/AryanSinghh07?tab=repositories)** to check out my featured projects!
 
 ---
 
