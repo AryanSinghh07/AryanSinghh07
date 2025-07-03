@@ -13,6 +13,8 @@ Would you like to see some of the work I've done?
 ---
 
 ## 🌐 Connect with me:
+Have a project idea, a tech query, or want to say hi? Reach me at:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thearyansingh07) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan.singhh04@gmail.com) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@the_aryansingh_) 
