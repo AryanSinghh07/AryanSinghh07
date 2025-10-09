@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a self-taught Full Stack Web Developer with a strong passion for building impactful digital experiences from end to end. I create interactive, responsive, and dynamic web applications using technologies like HTML, CSS, JavaScript on the front end, and Node.js, Python, and MongoDB on the back end. Committed to learning and self-development to achieve better results. I am always open to challenges and constructive feedback.
 
-💡 I'm continuously learning, experimenting with new tools, and pushing creative boundaries. Because the best way to grow is by building things that matter..
+💡 I'm continuously learning, experimenting with new tools, and pushing creative boundaries. Because the best way to grow is by building things that matter...
 
 ---
 Would you like to see some of the work I've done?
