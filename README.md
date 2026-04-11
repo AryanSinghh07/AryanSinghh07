@@ -166,7 +166,7 @@ AI-driven system to detect crop diseases from images — recognized at SIH 2024 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AryanSinghh07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanSinghh07&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=AryanSinghh07&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSinghh07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="40%"/>
 
@@ -177,7 +177,7 @@ AI-driven system to detect crop diseases from images — recognized at SIH 2024 
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanSinghh07&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanSinghh07&bg_color=0d1117&color=a78bfa&line=6d28d9&point=a78bfa&area=true&hide_border=true&area_color=6d28d9" width="100%"/>
 </div>
 
 ---
