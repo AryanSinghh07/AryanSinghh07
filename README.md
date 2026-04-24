@@ -102,7 +102,7 @@ AI-powered system detecting crop diseases from images. Recognized at SIH 2024 an
 </tr>
 </table>
 
-> 🚧 **Currently Building:** AI-Powered Cognitive Profiling Platform — stream selection through gameplay & cognitive analysis.
+> 🚧 **Currently Building:** AI-Powered Cognitive Profiling Platform — stream selection through gameplay & cognitive analysis..
 
 ---
 
