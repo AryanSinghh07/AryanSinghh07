@@ -36,19 +36,6 @@ class AryanSingh:
 
 ---
 
-## 🏆 Achievements
-
-| 🏅 | Achievement | Details |
-|---|---|---|
-| 🥇 | **SIH 2024 Participant** | AI-Driven Crop Disease Prediction System |
-| 🎖️ | **11th Place — GU Hackathon 2024** | University-level AI Competition |
-| 🎤 | **Public Speaker — UP Trade Show 2024** | Presented to 2,000+ attendees |
-| 🎯 | **Finalist — Code Astraa 2025** | Galgotias University × IEEE |
-| 🥇 | **SIH 2025 Participant** | AI Animal Classification System |
-| 🎖️ | **34th Place — GU Hackathon 2025** | University-level AI Competition |
-
----
-
 ## 🔨 Featured Projects
 
 <table>
